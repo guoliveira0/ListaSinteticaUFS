@@ -44,17 +44,17 @@
                         'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg" alt="Bandeira do Acre">',
                         'unidadeFederativa' => 'Acre',
                         'abreviacao' => 'AC',
-                        'sedeGoverno' => 'Rio Branco',
+                        'sedeGoverno' => 'Rio Branco ',
                         'area' => number_format(164122.2, 1, ',', '.'),
-                        'populacao' => 795145 . '%',
-                        'densidade' => 4.30,
-                        'pib' => 13622000,
-                        'total' => 0.2,
-                        'pibPercapita' => 16953.46,
-                        'idh' => 0.663,
-                        'alfabetizacao' => 86.9,
-                        'mortalidadeinfantil' => 98,
-                        'expectativavida' => 73.9 . 'anos'
+                        'populacao' => number_format(795145, 0, ' ', '.'),
+                        'densidade' => number_format(4.30, 2, ','),
+                        'pib' => number_format(13622000, 0, ' ', '.'),
+                        'total' => number_format(0.2, 1, ','),
+                        'pibPercapita' => number_format(16953.46, 2, ',', '.'),
+                        'idh' => number_format(0.663, 3, ','),
+                        'alfabetizacao' => number_format(86.9, 1, ',') . '%',
+                        'mortalidadeinfantil' => number_format(17.0, 1, ',') . '&#8240;',
+                        'expectativavida' => number_format(73.9, 1, ',') . 'anos'
 
                     ),
                     'AL' => array(
