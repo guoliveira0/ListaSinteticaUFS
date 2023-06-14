@@ -58,7 +58,7 @@
 
                     ),
                     'AL' => array(
-                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg" alt="Bandeira do Acre">',
+                        'bandeira' => '<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg" alt="Bandeira do Acre">',
                         'unidadeFederativa' => 'Alagoas',
                         'abreviacao' => 'AL',
                         'sedeGoverno' => 'Maceió',
